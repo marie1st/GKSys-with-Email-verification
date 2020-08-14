@@ -17,3 +17,12 @@ Step 4 run this project
 2. php artisan serve
 
 Noted I already upload few files such as  .env but it is stated as hidden.
+
+Remarks:  Two changes need to set in .env file :
+1. database name, and connection
+2. smtp server for email and sender address
+
+After commit changes of database run 
+php artisan migrate
+to update new changes in database.
+
