@@ -15,3 +15,5 @@ Step 3  Use this command otherwise the reminder and errors will occur stated tha
 Step 4 run this project
 1. npm run dev
 2. php artisan serve
+
+Noted I already upload few files such as  .env but it is stated as hidden.
